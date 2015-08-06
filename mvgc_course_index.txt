@@ -1,0 +1,34 @@
+Callippe Perserve	White	125
+Cinnabar Hills GC	White	132
+Cinnabar Hills GC	White	132
+Cinnabar Hills GC	White	130
+Cordevalle	White	127
+Coyote Tournament	White	134
+Coyote Valley	White	126
+Delaveaga	White	132
+Eagle Ridge	White	134
+Half Moon Bay	White	126
+Half Moon Old	White	130
+Metro	White	121
+Poppy Hills	White	134
+Poppy Ridge	White	130
+San Jose Muni	White	117
+San Juan Oaks	White	130
+San Ramon 	White	120
+Santa Clara	Gold	116
+Santa Teresa	White	122
+Shoreline	White	123
+Summitpointe	White	134
+Sunnyvale GC	White	113
+Sunol Cypress	White	117
+Sunol Palm	White	120
+The Bridge	White	139
+Roddy (Silver) 	Silver	130
+Roddy (Gold)   	Gold	134
+Wente 	Blue	131
+Metro	White	121
+Crystal Spring	White	125
+Monarch Bay	White	118
+The Ranch	White	129
+Palo Alto	White	117
+Shadow Lakes	Gold	134
