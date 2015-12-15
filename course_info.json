@@ -1,0 +1,1244 @@
+{
+  "courses": {
+    "Monarch Bay": {
+      "holes": [
+        {
+          "par": 3,
+          "men_hcp": 1,
+          "women_hcp": 1
+        },
+        {
+          "par": 3,
+          "men_hcp": 3,
+          "women_hcp": 3
+        },
+        {
+          "par": 4,
+          "men_hcp": 5,
+          "women_hcp": 5
+        },
+        {
+          "par": 3,
+          "men_hcp": 7,
+          "women_hcp": 7
+        },
+        {
+          "par": 4,
+          "men_hcp": 9,
+          "women_hcp": 9
+        },
+        {
+          "par": 3,
+          "men_hcp": 11,
+          "women_hcp": 11
+        },
+        {
+          "par": 3,
+          "men_hcp": 13,
+          "women_hcp": 13
+        },
+        {
+          "par": 4,
+          "men_hcp": 15,
+          "women_hcp": 15
+        },
+        {
+          "par": 3,
+          "men_hcp": 17,
+          "women_hcp": 17
+        },
+        {
+          "par": 3,
+          "men_hcp": 2,
+          "women_hcp": 2
+        },
+        {
+          "par": 3,
+          "men_hcp": 4,
+          "women_hcp": 4
+        },
+        {
+          "par": 4,
+          "men_hcp": 6,
+          "women_hcp": 6
+        },
+        {
+          "par": 3,
+          "men_hcp": 8,
+          "women_hcp": 8
+        },
+        {
+          "par": 4,
+          "men_hcp": 10,
+          "women_hcp": 10
+        },
+        {
+          "par": 3,
+          "men_hcp": 12,
+          "women_hcp": 12
+        },
+        {
+          "par": 3,
+          "men_hcp": 14,
+          "women_hcp": 14
+        },
+        {
+          "par": 4,
+          "men_hcp": 16,
+          "women_hcp": 16
+        },
+        {
+          "par": 3,
+          "men_hcp": 18,
+          "women_hcp": 18
+        }
+      ],
+      "details": {
+        "blue": {
+          "men": {
+            "rating": 29,
+            "slope": 87
+          }
+        }
+      }
+    },
+    "The Bridges": {
+      "holes": [
+        {
+          "par": 4,
+          "men_hcp": 9,
+          "women_hcp": 9
+        },
+        {
+          "par": 4,
+          "men_hcp": 1,
+          "women_hcp": 1
+        },
+        {
+          "par": 4,
+          "men_hcp": 13,
+          "women_hcp": 13
+        },
+        {
+          "par": 5,
+          "men_hcp": 11,
+          "women_hcp": 11
+        },
+        {
+          "par": 3,
+          "men_hcp": 3,
+          "women_hcp": 3
+        },
+        {
+          "par": 5,
+          "men_hcp": 5,
+          "women_hcp": 5
+        },
+        {
+          "par": 3,
+          "men_hcp": 7,
+          "women_hcp": 7
+        },
+        {
+          "par": 4,
+          "men_hcp": 15,
+          "women_hcp": 15
+        },
+        {
+          "par": 4,
+          "men_hcp": 17,
+          "women_hcp": 17
+        },
+        {
+          "par": 5,
+          "men_hcp": 12,
+          "women_hcp": 12
+        },
+        {
+          "par": 4,
+          "men_hcp": 14,
+          "women_hcp": 14
+        },
+        {
+          "par": 4,
+          "men_hcp": 16,
+          "women_hcp": 16
+        },
+        {
+          "par": 3,
+          "men_hcp": 6,
+          "women_hcp": 6
+        },
+        {
+          "par": 4,
+          "men_hcp": 10,
+          "women_hcp": 10
+        },
+        {
+          "par": 3,
+          "men_hcp": 18,
+          "women_hcp": 18
+        },
+        {
+          "par": 4,
+          "men_hcp": 4,
+          "women_hcp": 4
+        },
+        {
+          "par": 5,
+          "men_hcp": 8,
+          "women_hcp": 8
+        },
+        {
+          "par": 4,
+          "men_hcp": 2,
+          "women_hcp": 2
+        }
+      ],
+      "details": {
+        "black": {
+          "men": {
+            "rating": 74.5,
+            "slope": 147
+          },
+          "women": {
+            "rating": 74.5,
+            "slope": 147
+          }
+        },
+        "blue": {
+          "men": {
+            "rating": 73.4,
+            "slope": 141
+          },
+          "women": {
+            "rating": 73.4,
+            "slope": 141
+          }
+        },
+        "white": {
+          "men": {
+            "rating": 71.1,
+            "slope": 139
+          },
+          "women": {
+            "rating": 71.1,
+            "slope": 139
+          }
+        },
+        "white_l": {
+          "men": {
+            "rating": 77,
+            "slope": 143
+          },
+          "women": {
+            "rating": 77,
+            "slope": 143
+          }
+        },
+        "gold": {
+          "men": {
+            "rating": 68.9,
+            "slope": 134
+          },
+          "women": {
+            "rating": 68.9,
+            "slope": 134
+          }
+        },
+        "gold_l": {
+          "men": {
+            "rating": 74.5,
+            "slope": 130
+          },
+          "women": {
+            "rating": 74.5,
+            "slope": 130
+          }
+        },
+        "green": {
+          "men": {
+            "rating": 70.9,
+            "slope": 125
+          },
+          "women": {
+            "rating": 70.9,
+            "slope": 125
+          }
+        }
+      }
+    },
+    "Eagle Ridge": {
+      "holes": [
+        {
+          "par": 4,
+          "men_hcp": 13,
+          "women_hcp": 13
+        },
+        {
+          "par": 3,
+          "men_hcp": 15,
+          "women_hcp": 15
+        },
+        {
+          "par": 4,
+          "men_hcp": 11,
+          "women_hcp": 11
+        },
+        {
+          "par": 5,
+          "men_hcp": 1,
+          "women_hcp": 1
+        },
+        {
+          "par": 4,
+          "men_hcp": 3,
+          "women_hcp": 3
+        },
+        {
+          "par": 3,
+          "men_hcp": 17,
+          "women_hcp": 17
+        },
+        {
+          "par": 5,
+          "men_hcp": 9,
+          "women_hcp": 9
+        },
+        {
+          "par": 4,
+          "men_hcp": 7,
+          "women_hcp": 7
+        },
+        {
+          "par": 4,
+          "men_hcp": 5,
+          "women_hcp": 5
+        },
+        {
+          "par": 4,
+          "men_hcp": 14,
+          "women_hcp": 14
+        },
+        {
+          "par": 4,
+          "men_hcp": 10,
+          "women_hcp": 10
+        },
+        {
+          "par": 4,
+          "men_hcp": 4,
+          "women_hcp": 4
+        },
+        {
+          "par": 3,
+          "men_hcp": 12,
+          "women_hcp": 12
+        },
+        {
+          "par": 5,
+          "men_hcp": 2,
+          "women_hcp": 2
+        },
+        {
+          "par": 4,
+          "men_hcp": 16,
+          "women_hcp": 16
+        },
+        {
+          "par": 3,
+          "men_hcp": 18,
+          "women_hcp": 18
+        },
+        {
+          "par": 5,
+          "men_hcp": 6,
+          "women_hcp": 6
+        },
+        {
+          "par": 4,
+          "men_hcp": 8,
+          "women_hcp": 8
+        }
+      ],
+      "details": {
+        "black": {
+          "men": {
+            "rating": 74.2,
+            "slope": 140
+          },
+          "women": {
+            "rating": 74.2,
+            "slope": 140
+          }
+        },
+        "blue": {
+          "men": {
+            "rating": 72.7,
+            "slope": 139
+          },
+          "women": {
+            "rating": 72.7,
+            "slope": 139
+          }
+        },
+        "white": {
+          "men": {
+            "rating": 71,
+            "slope": 133
+          },
+          "women": {
+            "rating": 71,
+            "slope": 133
+          }
+        },
+        "yellow": {
+          "men": {
+            "rating": 69.4,
+            "slope": 130
+          },
+          "women": {
+            "rating": 69.4,
+            "slope": 130
+          }
+        },
+        "yellow_l": {
+          "men": {
+            "rating": 75.2,
+            "slope": 138
+          },
+          "women": {
+            "rating": 75.2,
+            "slope": 138
+          }
+        },
+        "green": {
+          "men": {
+            "rating": 73.3,
+            "slope": 133
+          },
+          "women": {
+            "rating": 73.3,
+            "slope": 133
+          }
+        },
+        "burgundy": {
+          "men": {
+            "rating": 70.7,
+            "slope": 125
+          },
+          "women": {
+            "rating": 70.7,
+            "slope": 125
+          }
+        }
+      }
+    },
+    "Shoreline Links": {
+      "holes": [
+        {
+          "par": 5,
+          "men_hcp": 10,
+          "women_hcp": 4
+        },
+        {
+          "par": 4,
+          "men_hcp": 6,
+          "women_hcp": 2
+        },
+        {
+          "par": 4,
+          "men_hcp": 12,
+          "women_hcp": 6
+        },
+        {
+          "par": 3,
+          "men_hcp": 18,
+          "women_hcp": 8
+        },
+        {
+          "par": 4,
+          "men_hcp": 14,
+          "women_hcp": 16
+        },
+        {
+          "par": 4,
+          "men_hcp": 4,
+          "women_hcp": 12
+        },
+        {
+          "par": 4,
+          "men_hcp": 2,
+          "women_hcp": 14
+        },
+        {
+          "par": 3,
+          "men_hcp": 16,
+          "women_hcp": 18
+        },
+        {
+          "par": 5,
+          "men_hcp": 8,
+          "women_hcp": 10
+        },
+        {
+          "par": 5,
+          "men_hcp": 17,
+          "women_hcp": 9
+        },
+        {
+          "par": 3,
+          "men_hcp": 7,
+          "women_hcp": 15
+        },
+        {
+          "par": 4,
+          "men_hcp": 11,
+          "women_hcp": 11
+        },
+        {
+          "par": 4,
+          "men_hcp": 1,
+          "women_hcp": 13
+        },
+        {
+          "par": 4,
+          "men_hcp": 5,
+          "women_hcp": 1
+        },
+        {
+          "par": 4,
+          "men_hcp": 3,
+          "women_hcp": 3
+        },
+        {
+          "par": 5,
+          "men_hcp": 13,
+          "women_hcp": 5
+        },
+        {
+          "par": 3,
+          "men_hcp": 15,
+          "women_hcp": 17
+        },
+        {
+          "par": 4,
+          "men_hcp": 9,
+          "women_hcp": 7
+        }
+      ],
+      "details": {
+        "blue": {
+          "men": {
+            "rating": 71.9,
+            "slope": 127
+          }
+        },
+        "white": {
+          "men": {
+            "rating": 69.3,
+            "slope": 123
+          },
+          "women": {
+            "rating": 75,
+            "slope": 131
+          }
+        },
+        "black": {
+          "men": {
+            "rating": 73.5,
+            "slope": 129
+          }
+        },
+        "red": {
+          "men": {
+            "rating": 66.5,
+            "slope": 116
+          },
+          "women": {
+            "rating": 71.1,
+            "slope": 123
+          }
+        }
+      }
+    },
+    "San Ramon Golf Club": {
+      "holes": [
+        {
+          "par": 4,
+          "men_hcp": 13,
+          "women_hcp": 3
+        },
+        {
+          "par": 3,
+          "men_hcp": 5,
+          "women_hcp": 17
+        },
+        {
+          "par": 4,
+          "men_hcp": 17,
+          "women_hcp": 13
+        },
+        {
+          "par": 4,
+          "men_hcp": 1,
+          "women_hcp": 7
+        },
+        {
+          "par": 4,
+          "men_hcp": 11,
+          "women_hcp": 15
+        },
+        {
+          "par": 5,
+          "men_hcp": 15,
+          "women_hcp": 5
+        },
+        {
+          "par": 3,
+          "men_hcp": 7,
+          "women_hcp": 11
+        },
+        {
+          "par": 5,
+          "men_hcp": 9,
+          "women_hcp": 9
+        },
+        {
+          "par": 4,
+          "men_hcp": 3,
+          "women_hcp": 1
+        },
+        {
+          "par": 4,
+          "men_hcp": 10,
+          "women_hcp": 14
+        },
+        {
+          "par": 4,
+          "men_hcp": 6,
+          "women_hcp": 8
+        },
+        {
+          "par": 4,
+          "men_hcp": 14,
+          "women_hcp": 10
+        },
+        {
+          "par": 5,
+          "men_hcp": 12,
+          "women_hcp": 4
+        },
+        {
+          "par": 3,
+          "men_hcp": 8,
+          "women_hcp": 16
+        },
+        {
+          "par": 5,
+          "men_hcp": 16,
+          "women_hcp": 2
+        },
+        {
+          "par": 4,
+          "men_hcp": 2,
+          "women_hcp": 12
+        },
+        {
+          "par": 3,
+          "men_hcp": 18,
+          "women_hcp": 18
+        },
+        {
+          "par": 4,
+          "men_hcp": 4,
+          "women_hcp": 6
+        }
+      ],
+      "details": {
+        "blue": {
+          "men": {
+            "rating": 71.2,
+            "slope": 127
+          },
+          "women": {
+            "rating": 71.2,
+            "slope": 127
+          }
+        },
+        "middle": {
+          "men": {
+            "rating": 69.5,
+            "slope": 120
+          },
+          "women": {
+            "rating": 69.5,
+            "slope": 120
+          }
+        },
+        "ladies_back": {
+          "men": {
+            "rating": 72.7,
+            "slope": 126
+          },
+          "women": {
+            "rating": 75,
+            "slope": 130
+          }
+        },
+        "forward_l": {
+          "men": {
+            "rating": 72.7,
+            "slope": 126
+          },
+          "women": {
+            "rating": 72.7,
+            "slope": 126
+          }
+        }
+      }
+    },
+    "Crystal Springs": {
+      "holes": [
+        {
+          "par": 4,
+          "men_hcp": 1,
+          "women_hcp": 1
+        },
+        {
+          "par": 4,
+          "men_hcp": 3,
+          "women_hcp": 3
+        },
+        {
+          "par": 3,
+          "men_hcp": 5,
+          "women_hcp": 5
+        },
+        {
+          "par": 5,
+          "men_hcp": 7,
+          "women_hcp": 7
+        },
+        {
+          "par": 4,
+          "men_hcp": 9,
+          "women_hcp": 9
+        },
+        {
+          "par": 4,
+          "men_hcp": 11,
+          "women_hcp": 11
+        },
+        {
+          "par": 5,
+          "men_hcp": 13,
+          "women_hcp": 13
+        },
+        {
+          "par": 3,
+          "men_hcp": 15,
+          "women_hcp": 15
+        },
+        {
+          "par": 4,
+          "men_hcp": 17,
+          "women_hcp": 17
+        },
+        {
+          "par": 4,
+          "men_hcp": 2,
+          "women_hcp": 2
+        },
+        {
+          "par": 3,
+          "men_hcp": 4,
+          "women_hcp": 4
+        },
+        {
+          "par": 4,
+          "men_hcp": 6,
+          "women_hcp": 6
+        },
+        {
+          "par": 3,
+          "men_hcp": 8,
+          "women_hcp": 8
+        },
+        {
+          "par": 4,
+          "men_hcp": 10,
+          "women_hcp": 10
+        },
+        {
+          "par": 4,
+          "men_hcp": 12,
+          "women_hcp": 12
+        },
+        {
+          "par": 5,
+          "men_hcp": 14,
+          "women_hcp": 14
+        },
+        {
+          "par": 4,
+          "men_hcp": 16,
+          "women_hcp": 16
+        },
+        {
+          "par": 5,
+          "men_hcp": 18,
+          "women_hcp": 18
+        }
+      ],
+      "details": {
+        "black": {
+          "men": {
+            "rating": 72.1,
+            "slope": 125
+          }
+        },
+        "blue": {
+          "men": {
+            "rating": 71.7,
+            "slope": 124
+          }
+        },
+        "white": {
+          "men": {
+            "rating": 70.4,
+            "slope": 121
+          }
+        },
+        "red": {
+          "men": {
+            "rating": 73.7,
+            "slope": 128
+          },
+          "women": {
+            "rating": 73.7,
+            "slope": 128
+          }
+        }
+      }
+    },
+    "San Juan Oaks": {
+      "holes": [
+        {
+          "par": 4,
+          "men_hcp": 18,
+          "women_hcp": 18
+        },
+        {
+          "par": 5,
+          "men_hcp": 12,
+          "women_hcp": 12
+        },
+        {
+          "par": 4,
+          "men_hcp": 14,
+          "women_hcp": 14
+        },
+        {
+          "par": 4,
+          "men_hcp": 6,
+          "women_hcp": 6
+        },
+        {
+          "par": 4,
+          "men_hcp": 10,
+          "women_hcp": 10
+        },
+        {
+          "par": 3,
+          "men_hcp": 4,
+          "women_hcp": 4
+        },
+        {
+          "par": 4,
+          "men_hcp": 2,
+          "women_hcp": 2
+        },
+        {
+          "par": 3,
+          "men_hcp": 16,
+          "women_hcp": 16
+        },
+        {
+          "par": 5,
+          "men_hcp": 8,
+          "women_hcp": 8
+        },
+        {
+          "par": 4,
+          "men_hcp": 15,
+          "women_hcp": 15
+        },
+        {
+          "par": 5,
+          "men_hcp": 13,
+          "women_hcp": 13
+        },
+        {
+          "par": 3,
+          "men_hcp": 9,
+          "women_hcp": 9
+        },
+        {
+          "par": 4,
+          "men_hcp": 1,
+          "women_hcp": 1
+        },
+        {
+          "par": 4,
+          "men_hcp": 11,
+          "women_hcp": 11
+        },
+        {
+          "par": 5,
+          "men_hcp": 3,
+          "women_hcp": 3
+        },
+        {
+          "par": 3,
+          "men_hcp": 17,
+          "women_hcp": 17
+        },
+        {
+          "par": 4,
+          "men_hcp": 5,
+          "women_hcp": 5
+        },
+        {
+          "par": 4,
+          "men_hcp": 7,
+          "women_hcp": 7
+        }
+      ],
+      "details": {
+        "black": {
+          "men": {
+            "rating": 74.6,
+            "slope": 141
+          }
+        },
+        "blue": {
+          "men": {
+            "rating": 72.9,
+            "slope": 136
+          }
+        },
+        "white": {
+          "men": {
+            "rating": 71.2,
+            "slope": 130
+          }
+        },
+        "gold": {
+          "men": {
+            "rating": 68.6,
+            "slope": 128
+          },
+          "women": {
+            "rating": 74.1,
+            "slope": 134
+          }
+        },
+        "red": {
+          "men": {
+            "rating": 69.2,
+            "slope": 119
+          },
+          "women": {
+            "rating": 73.7,
+            "slope": 128
+          }
+        }
+      }
+    },
+    "Callippe Preserve": {
+      "holes": [
+        {
+          "par": 4,
+          "men_hcp": 5,
+          "women_hcp": 5
+        },
+        {
+          "par": 4,
+          "men_hcp": 11,
+          "women_hcp": 11
+        },
+        {
+          "par": 5,
+          "men_hcp": 7,
+          "women_hcp": 7
+        },
+        {
+          "par": 3,
+          "men_hcp": 13,
+          "women_hcp": 13
+        },
+        {
+          "par": 4,
+          "men_hcp": 9,
+          "women_hcp": 9
+        },
+        {
+          "par": 3,
+          "men_hcp": 17,
+          "women_hcp": 17
+        },
+        {
+          "par": 4,
+          "men_hcp": 1,
+          "women_hcp": 1
+        },
+        {
+          "par": 4,
+          "men_hcp": 15,
+          "women_hcp": 15
+        },
+        {
+          "par": 5,
+          "men_hcp": 3,
+          "women_hcp": 3
+        },
+        {
+          "par": 4,
+          "men_hcp": 4,
+          "women_hcp": 4
+        },
+        {
+          "par": 4,
+          "men_hcp": 10,
+          "women_hcp": 10
+        },
+        {
+          "par": 4,
+          "men_hcp": 16,
+          "women_hcp": 16
+        },
+        {
+          "par": 3,
+          "men_hcp": 18,
+          "women_hcp": 18
+        },
+        {
+          "par": 4,
+          "men_hcp": 8,
+          "women_hcp": 8
+        },
+        {
+          "par": 5,
+          "men_hcp": 12,
+          "women_hcp": 12
+        },
+        {
+          "par": 3,
+          "men_hcp": 14,
+          "women_hcp": 14
+        },
+        {
+          "par": 4,
+          "men_hcp": 2,
+          "women_hcp": 2
+        },
+        {
+          "par": 5,
+          "men_hcp": 6,
+          "women_hcp": 6
+        }
+      ],
+      "details": {
+        "black": {
+          "men": {
+            "rating": 73,
+            "slope": 133
+          },
+          "women": {
+            "rating": 73,
+            "slope": 133
+          }
+        },
+        "blue": {
+          "men": {
+            "rating": 71.5,
+            "slope": 130
+          },
+          "women": {
+            "rating": 71.5,
+            "slope": 130
+          }
+        },
+        "white": {
+          "men": {
+            "rating": 69.8,
+            "slope": 125
+          },
+          "women": {
+            "rating": 69.8,
+            "slope": 125
+          }
+        },
+        "yellow": {
+          "men": {
+            "rating": 67.7,
+            "slope": 120
+          },
+          "women": {
+            "rating": 67.7,
+            "slope": 120
+          }
+        },
+        "yellow_l": {
+          "men": {
+            "rating": 67.7,
+            "slope": 120
+          },
+          "women": {
+            "rating": 67.7,
+            "slope": 120
+          }
+        },
+        "red": {
+          "men": {
+            "rating": 68.4,
+            "slope": 114
+          },
+          "women": {
+            "rating": 68.4,
+            "slope": 114
+          }
+        }
+      }
+    },
+    "Poppy Ridge": {
+      "holes": [
+        {
+          "par": 4,
+          "men_hcp": 7,
+          "women_hcp": 7
+        },
+        {
+          "par": 4,
+          "men_hcp": 15,
+          "women_hcp": 5
+        },
+        {
+          "par": 3,
+          "men_hcp": 13,
+          "women_hcp": 13
+        },
+        {
+          "par": 4,
+          "men_hcp": 11,
+          "women_hcp": 11
+        },
+        {
+          "par": 5,
+          "men_hcp": 5,
+          "women_hcp": 5
+        },
+        {
+          "par": 4,
+          "men_hcp": 3,
+          "women_hcp": 3
+        },
+        {
+          "par": 3,
+          "men_hcp": 17,
+          "women_hcp": 17
+        },
+        {
+          "par": 4,
+          "men_hcp": 1,
+          "women_hcp": 1
+        },
+        {
+          "par": 5,
+          "men_hcp": 9,
+          "women_hcp": 9
+        },
+        {
+          "par": 4,
+          "men_hcp": 8,
+          "women_hcp": 8
+        },
+        {
+          "par": 4,
+          "men_hcp": 16,
+          "women_hcp": 16
+        },
+        {
+          "par": 3,
+          "men_hcp": 14,
+          "women_hcp": 14
+        },
+        {
+          "par": 4,
+          "men_hcp": 12,
+          "women_hcp": 12
+        },
+        {
+          "par": 5,
+          "men_hcp": 6,
+          "women_hcp": 6
+        },
+        {
+          "par": 4,
+          "men_hcp": 4,
+          "women_hcp": 4
+        },
+        {
+          "par": 3,
+          "men_hcp": 18,
+          "women_hcp": 18
+        },
+        {
+          "par": 4,
+          "men_hcp": 2,
+          "women_hcp": 2
+        },
+        {
+          "par": 5,
+          "men_hcp": 10,
+          "women_hcp": 10
+        }
+      ],
+      "details": {
+        "black": {
+          "men": {
+            "rating": 75,
+            "slope": 138
+          }
+        },
+        "blue": {
+          "men": {
+            "rating": 73.2,
+            "slope": 133
+          }
+        },
+        "white": {
+          "men": {
+            "rating": 71,
+            "slope": 130
+          },
+          "women": {
+            "rating": 71,
+            "slope": 130
+          }
+        },
+        "gold": {
+          "men": {
+            "rating": 67.2,
+            "slope": 122
+          },
+          "women": {
+            "rating": 67.2,
+            "slope": 122
+          }
+        }
+      }
+    }
+  }
+}
