@@ -1,5 +1,0 @@
-Name	Lady-tee-box	lady-slope	lady-rating	men-rating
-Summitpointe	Red	130	72.1	70.4
-Palo Alto	Red	119	71.8	70.4
-Monarch Bay	Red	117	69.6	69.1
-Eagle Ridge	Red	125	70.7	71.6

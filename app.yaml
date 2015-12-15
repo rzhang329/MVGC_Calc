@@ -4,6 +4,9 @@ api_version: 1
 threadsafe: true
 
 handlers:
+- url: /download
+  static_dir: download
+
 - url: /.*
   script: Handlers.app
 
