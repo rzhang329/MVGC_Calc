@@ -1,4 +1,5 @@
 import webapp2
+from game_server import GameServer
 from google.appengine.ext import ndb
 from mvgc_calculate import get_results
 
@@ -418,4 +419,5 @@ app = webapp2.WSGIApplication([
     ("/mobile_data", MobileData),
     ("/mobile_res", MobileResults),
     ("/androidapp", AndroidApp),
+    ("/game_server", GameServer),
     ("/index", Index)], debug=False)
