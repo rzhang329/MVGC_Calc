@@ -4,8 +4,9 @@ import json
 import sys
 
 class Parser:
-    def __init__(self, str):
+    def __init__(self, name, str):
         self.course = {}
+        self.course["Name"] = name
         data = str.splitlines()
         self.course["Holes"] = {"Par": [], "Men HCP": [], "Women HCP": []}
         self.course["Tees"] = {}
